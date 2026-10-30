@@ -1,0 +1,11 @@
+*.bak
+# *.css
+*.csv
+*.docx
+*.html
+*.jpg
+*.pdf
+*.png
+*.swp
+*.txt
+*.zip
